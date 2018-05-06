@@ -8,7 +8,7 @@ export const HeadingPresenter = ({
   className,
   ...props,
 }) => (
-  <Tag className={[ styles.h, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{children}</Tag>
+  <Tag className={[ styles.h, styles.underlined, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{children}</Tag>
 )
 
 export const HeadingContainer = ({
