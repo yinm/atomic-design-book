@@ -31,3 +31,24 @@ export const TrashCanIcon = props => (
     { ...props }
   />
 )
+
+export const ChevronRightIconPresenter =({
+  height = 20,
+  width = 20,
+  ...props,
+}) => (
+  <img
+    src="/icons/chevron-right.svg"
+    alt=""
+    height={ height }
+    width={ width }
+    { ...props }
+  />
+)
+
+export const ChevronRightIcon = props => (
+  <IconContainer
+    presenter={ presenterProps => <ChevronRightIconPresenter { ...presenterProps } /> }
+    { ...props }
+  />
+)
