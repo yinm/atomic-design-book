@@ -8,7 +8,17 @@ export const HeadingPresenter = ({
   className,
   ...props,
 }) => (
-  <Tag className={[ styles.h, styles.underlined, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{children}</Tag>
+  <Tag className={[ styles.h, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{ children }</Tag>
+)
+
+export const HeadingUnderlinedPresenter =({
+  children,
+  tag:Tag,
+  visualLevel,
+  className,
+  ...props,
+}) => (
+  <Tag className={[ styles.h, styles.underlined, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{ children }</Tag>
 )
 
 export const HeadingContainer = ({
@@ -30,3 +40,7 @@ const Heading = props => (
 )
 
 export default Heading
+
+export const HeadingUnderlined = props => (
+  <HeadingContainer presenter={ presenterProps => <HeadingUnderlinedPresenter { ...presenterProps } /> } { ...props } />
+)
