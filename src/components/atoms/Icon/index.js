@@ -1,24 +1,33 @@
 import React from 'react'
 import styles from './styles.css'
 
-export const TrashCanIcon = ({
+export const TrashCanIconPresenter = ({
   height = 20,
   width = 20,
-  className = '',
+  ...props,
+}) => (
+  <img
+    src="/icons/trash-can.svg"
+    alt=""
+    height={ height }
+    width={ width }
+    { ...props }
+  />
+)
+
+export const IconContainer = ({
+  presenter,
   onClick,
+  className = '',
   ...props,
 }) => {
   if (onClick) className += `${ styles.clickable }`
-
-  return (
-    <img
-      src="/icons/trash-can.svg"
-      alt=""
-      height={ height }
-      width={ width }
-      className={ className }
-      onClick={ onClick }
-      { ...props }
-    />
-  )
+  return presenter({ onClick, className, ...props })
 }
+
+export const TrashCanIcon = props => (
+  <IconContainer
+    presenter={ presenterProps => <TrashCanIconPresenter { ...presenterProps } /> }
+    { ...props }
+  />
+)
