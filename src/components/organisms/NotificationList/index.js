@@ -1,6 +1,6 @@
-import React from 'react'
-import styles from './styles.css'
-import Notification from '../Notification/index'
+import React from 'react';
+import styles from './styles.css';
+import Notification from '../Notification/index.js';
 
 const NotificationList = ({
   programs,
@@ -17,6 +17,5 @@ const NotificationList = ({
       />
     )) }
   </div>
-)
-
-export default NotificationList
+);
+export default NotificationList;
