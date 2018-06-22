@@ -2,27 +2,24 @@ import React from 'react'
 import styles from './styles.css'
 
 export const HeadingPresenter = ({
-  children,
   tag:Tag,
   visualLevel,
   className,
   ...props,
 }) => (
-  <Tag className={[ styles.h, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{ children }</Tag>
+  <Tag className={[ styles.h, styles[`h${ visualLevel }`], className ].join(' ')} { ...props } />
 )
 
-export const HeadingUnderlinedPresenter =({
-  children,
+export const HeadingUnderlinedPresenter = ({
   tag:Tag,
   visualLevel,
   className,
   ...props,
 }) => (
-  <Tag className={[ styles.h, styles.underlined, styles[`h${ visualLevel }`], className ].join(' ')} { ...props }>{ children }</Tag>
+  <Tag className={[ styles.h, styles.underlined, styles[`h${ visualLevel }`], className ].join(' ')} { ...props } />
 )
 
 export const HeadingContainer = ({
-  children,
   presenter,
   level = 2,
   visualLevel,
@@ -32,13 +29,12 @@ export const HeadingContainer = ({
   visualLevel = (typeof visualLevel !== 'undefined') ? visualLevel : level
   const tag = `h${ level }`
 
-  return presenter({ children, tag, visualLevel, props })
+  return presenter({ tag, visualLevel, ...props })
 }
 
 const Heading = props => (
   <HeadingContainer presenter={ presenterProps => <HeadingPresenter { ...presenterProps } /> } { ...props } />
 )
-
 export default Heading
 
 export const HeadingUnderlined = props => (

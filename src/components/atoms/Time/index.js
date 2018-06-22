@@ -4,7 +4,7 @@ import 'moment/locale/ja'
 
 export const TimePresenter = props => <time { ...props } />
 
-export const TimeContainer =({
+export const TimeContainer = ({
   presenter,
   children:value,
   dateTime,
