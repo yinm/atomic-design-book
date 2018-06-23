@@ -1,0 +1,84 @@
+:root {
+  /* ***** value layer ***** */
+
+  /* colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #8c8c8c;
+  --color-gray-dk: #1a1a1a; /* dk = dark */
+  --color-gray-lt: #ddd; /* lt = light */
+  --color-gray-p: #f6f6f6; /* p = pale */
+  --color-green: #51c800;
+  --color-red: none;
+
+  /* ***** branding layer ***** */
+
+  /* colors */
+  --color-base: var(--color-white);
+  --color-link: var(--color-green);
+  --color-link-visited: none;
+  --color-link-hover: none;
+  --color-link-active: none;
+  --color-success: none;
+  --color-danger: none;
+  --color-warning: none;
+  --color-info: var(--color-gray);
+  --color-primary: var(--color-green);
+  --color-secondary: none;
+  --color-accent: none;
+  --color-selected: var(--color-gray-p);
+
+  /* ***** media layer ***** */
+
+  /* colors */
+  --color-text: var(--color-black);
+  --color-text-outlined: var(--color-white);
+  --color-tip: var(--color-gray-dk);
+  --color-line: var(--color-gray-lt);
+  --color-info-layer1: var(--color-gray-p);
+  --color-info-layer2: var(--color-white);
+  --color-header: var(--color-black);
+  --color-card: var(--color-white);
+  --color-card-header: var(--color-black);
+
+  /* font-size */
+  --font-size-xxs: none;
+  --font-size-xs: .6rem;
+  --font-size-s: .8rem;
+  --font-size-m: 1rem;
+  --font-size-l: 1.2rem;
+  --font-size-xl: 1.4rem;
+  --font-size-xxl: 1.6rem;
+  --font-size-xxxl: 1.8rem;
+  --font-size-xxxxl: 2.0rem;
+
+  /* font-weight */
+  --font-weight-default: 400;
+  --font-weight-bold: 700;
+
+  /* space */
+  --space: .5rem;
+
+  /* border */
+  --line-width: 1px;
+  --line-style: solid;
+  --radius: 2px;
+  --border: var(--line-width) var(--line-style) var(--color-line);
+
+  /* feedback */
+  --hover-feedback-opacity: .7;
+
+  /* animation */
+  --hover-animation-duration: .1s;
+  --hover-animation-timing: ease-out;
+  --hover-animation: var(--hover-animation-duration) var(--hover-animation-timing);
+  --fade-animation-duration: .2s;
+  --fade-animation-timing: linear;
+  --fade-animation: var(--fade-animation-duration) var(--fade-animation-timing);
+
+  /* z-index */
+  --z-header: 10;
+
+  /* media query */
+  @custom-media --breakpoint-s (min-width: 768px);
+}
