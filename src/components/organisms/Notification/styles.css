@@ -1,12 +1,6 @@
 .root {
-  display: flex;
   padding: 1rem;
   position: relative;
-}
-
-.body {
-  flex: 1;
-  min-width: 0;
 }
 
 .media {
