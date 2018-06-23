@@ -1,15 +1,15 @@
 @import "../../properties.css";
 
 .button {
-  border-radius: 2px;
+  border-radius: var(--radius);
   border-width: 0;
   display: inline-block;
-  font-weight: 700;
-  font-size: 1rem;
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-m);
   line-height: 1;
   padding: .8rem;
   text-decoration: none;
-  transition: opacity .1s ease-out;
+  transition: opacity var(--hover-animation);
 }
 
 .button:hover {
@@ -18,16 +18,16 @@
 
 .default {
   background-color: inherit;
-  border: 1px solid #ddd;
-  color: #8c8c8c;
+  border: var(--border);
+  color: var(--color-info);
 }
 
 .primary {
-  background-color: #51c300;
-  color: #fff;
+  background-color: var(--color-primary);
+  color: var(--color-text-outlined);
 }
 
 .warning {
   background-color: var(--color-warning);
-  color: #fff;
+  color: var(--color-text-outlined);
 }
