@@ -1,0 +1,10 @@
+.textbox {
+  width: 30rem;
+}
+
+.label {
+  font-size: .8rem;
+  font-weight: 700;
+  line-height: 1;
+  padding-bottom: 1rem;
+}
