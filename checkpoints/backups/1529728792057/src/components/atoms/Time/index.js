@@ -1,7 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 import 'moment/locale/ja';
-import { containPresenter } from '../../utils/HoC.js';
+import { containPresenter } from '../../utils/HoC'
 
 export const TimePresenter = props => <time { ...props } />;
 
@@ -20,7 +20,7 @@ export const TimeContainer = ({
   } else {
     children = formatDatetime(value, format);
   }
-  
+
   if (!dateTime) {
     dateTime = formatDatetime(value);
   }
@@ -28,7 +28,7 @@ export const TimeContainer = ({
   return presenter({ children, dateTime, ...props });
 };
 
-const Time = containPresenter(TimeContainer, TimePresenter);
+const Time = containPresenter(TimeContainer, TimePresenter)
 export default Time;
 
 moment.locale();

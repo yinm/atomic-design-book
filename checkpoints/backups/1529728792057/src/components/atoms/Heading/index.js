@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './styles.css';
-import { containPresenter } from '../../utils/HoC.js';
+import { containPresenter } from '../../utils/HoC'
 
 export const HeadingPresenter = ({
   tag:Tag,
@@ -33,7 +33,8 @@ export const HeadingContainer = ({
   return presenter({ tag, visualLevel, ...props });
 };
 
-const Heading = containPresenter(HeadingContainer, HeadingPresenter);
+const Heading = containPresenter(HeadingContainer, HeadingPresenter)
+
 export default Heading;
 
-export const HeadingUnderlined = containPresenter(HeadingContainer, HeadingUnderlinedPresenter);
+export const HeadingUnderlined = containPresenter(HeadingContainer, HeadingUnderlinedPresenter)
