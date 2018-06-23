@@ -5,7 +5,3 @@
   font-size: .8rem;
   padding: .5rem;
 }
-
-.textbox + * {
-  font-size: 100px;
-}

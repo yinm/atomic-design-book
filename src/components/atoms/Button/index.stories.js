@@ -1,6 +1,7 @@
-import React from 'react'
-import { Button, PrimaryButton } from './index'
+import React from 'react';
+import Button, { PrimaryButton, WarningButton } from './index.js';
 
 export default stories => stories
-  .add('default', () => <Button>default</Button>)
-  .add('primary', () => <PrimaryButton>Primary</PrimaryButton>)
+  .add('デフォルト', () => <Button>デフォルト</Button>)
+  .add('プライマリ', () => <PrimaryButton>プライマリ</PrimaryButton>)
+  .add('ウォーニング', () => <WarningButton>ウォーニング</WarningButton>)
