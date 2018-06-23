@@ -1,20 +1,22 @@
+@import "../../properties.css";
+
 .root {
-  padding: 1rem;
+  padding: calc(var(--space) * 2);
   position: relative;
 }
 
 .media {
-  padding-right: 1rem;
+  padding-right: calc(var(--space) * 2);
 }
 
 .time {
-  margin-top: .5rem;
+  margin-top: var(--space);
 }
 
 .del {
   display: none !important;
   position: absolute !important;
-  right: 1.5rem !important;
+  right: calc(var(--space) * 3) !important;
   top: 50% !important;
   transform: translateY(-50%) !important;
 }
