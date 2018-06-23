@@ -1,3 +1,5 @@
+@import "../../properties.css";
+
 .button {
   border-radius: 2px;
   border-width: 0;
@@ -22,5 +24,10 @@
 
 .primary {
   background-color: #51c300;
+  color: #fff;
+}
+
+.warning {
+  background-color: var(--color-warning);
   color: #fff;
 }

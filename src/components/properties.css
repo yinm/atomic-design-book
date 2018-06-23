@@ -9,7 +9,7 @@
   --color-gray-lt: #ddd; /* lt = light */
   --color-gray-p: #f6f6f6; /* p = pale */
   --color-green: #51c800;
-  --color-red: none;
+  --color-red: #f0163a;
 
   /* ***** branding layer ***** */
 
@@ -21,7 +21,7 @@
   --color-link-active: none;
   --color-success: none;
   --color-danger: none;
-  --color-warning: none;
+  --color-warning: var(--color-red);
   --color-info: var(--color-gray);
   --color-primary: var(--color-green);
   --color-secondary: none;
