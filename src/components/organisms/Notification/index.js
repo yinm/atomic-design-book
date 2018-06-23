@@ -4,9 +4,9 @@ import Img from '../../atoms/Img/index.js';
 import Heading from '../../atoms/Heading/index.js';
 import { InfoTxt } from '../../atoms/Txt/index.js';
 import Time from '../../atoms/Time/index.js';
+import MediaObjectLayout from '../../atoms/MediaObjectLayout/index.js';
 import DeleteButton from '../../molecules/DeleteButton/index.js';
-import MediaObjectLayout from '../../atoms/MediaObjectLayout/index'
-import { containPresenter } from '../../utils/HoC'
+import { containPresenter } from '../../utils/HoC.js';
 
 export class NotificationContainer extends Component {
   constructor() {
@@ -45,5 +45,6 @@ export const NotificationPresenter = ({
   </MediaObjectLayout>
 );
 
-const Notification = containPresenter(NotificationContainer, NotificationPresenter)
+const Notification = containPresenter(NotificationContainer, NotificationPresenter);
+
 export default Notification;
