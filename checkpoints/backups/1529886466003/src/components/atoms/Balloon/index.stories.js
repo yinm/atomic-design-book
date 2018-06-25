@@ -1,13 +1,3 @@
-/*
-訂正：紙面掲載のコードにて、
-import { withStyle } from '../../utils/decorators.js';
-という記述がありますが、この 1 行は必要ありません。
-代わりに、
-import { withNotes } from '@storybook/addon-notes';
-と記述して、withNotes のインポートが必要です。
-お手数ですが置き替えて進めてください。
-*/
-
 import React from 'react';
 import Balloon, { BalloonTip } from './index.js';
 import { TrashCanIcon } from '../Icon/index.js';

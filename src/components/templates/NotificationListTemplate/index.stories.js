@@ -1,20 +1,20 @@
-import React from 'react'
+import React from 'react';
 import { action } from '@storybook/addon-actions'
-import NotificationListTemplate from './index'
+import NotificationListTemplate from './index.js';
 import {
   notifications,
   navigations,
   breadcrumb,
-} from '../../../mock/data'
+} from '../../../mock/data.js';
 
 export default stories => stories
-  .add('default', () => {
+  .add('デフォルト', () => {
     return (
       <NotificationListTemplate
         notifications={ notifications }
         navigations={ navigations }
         breadcrumb={ breadcrumb }
-        onClickDeleteNotification={ action('delete button is clicked.') }
+        onClickDeleteNotification={ action('削除ボタンがクリックされました') }
       />
-    )
-  })
+    );
+  });
