@@ -1,5 +1,20 @@
 @import "../../properties.css";
 
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes marker {
+  to {
+    background-color: var(--color-selected);
+  }
+}
+
 .root {
   position: relative;
 }
@@ -15,8 +30,10 @@
 
 .root:hover > .tip {
   display: inline-block;
+  animation: fade var(--fade-animation);
 }
 
 .root:hover > .marker {
   background-color: var(--color-selected);
+  animation: marker var(--fade-animation) forwards;
 }
