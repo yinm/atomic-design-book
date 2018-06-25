@@ -23,3 +23,8 @@ export default stories => stories
   .add('twenty', () => <Balloon>削除したかったらするけど、どうしたいかな</Balloon>)
   .add('thirty', () => <Balloon>削除したかったらするけど、どうしたいかな。嫌なら、やめようか</Balloon>)
   .add('thirty and linefeed', () => <Balloon>削除したかったらするけど、どうしたいかな。<br />嫌なら、やめようか</Balloon>)
+  .add('長文中のバルーンチップ', () => (
+    <p style={{ padding: '50px', width: '300px' }}>
+      専門的なことを説明する文章の場合、文章中のある言葉が一般的に使われるものでない場合などに注釈を表示したいときがあります。たとえば<BalloonTip label="注釈を記述するUI">バルーンチップ</BalloonTip>のようなUIを使うことでそれが可能です。
+    </p>
+  ))
