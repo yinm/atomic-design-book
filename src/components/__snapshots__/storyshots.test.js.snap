@@ -234,7 +234,7 @@ exports[`Storyshots DeleteButton デフォルト 1`] = `
   <span
     className="  "
   >
-    削除する
+    削除
   </span>
 </span>
 `;
@@ -714,7 +714,7 @@ exports[`Storyshots Notification デフォルト 1`] = `
       <span
         className="  "
       >
-        削除する
+        削除
       </span>
     </span>
   </div>
@@ -776,7 +776,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
         <span
           className="  "
         >
-          削除する
+          削除
         </span>
       </span>
     </div>
@@ -834,7 +834,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
         <span
           className="  "
         >
-          削除する
+          削除
         </span>
       </span>
     </div>
@@ -892,7 +892,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
         <span
           className="  "
         >
-          削除する
+          削除
         </span>
       </span>
     </div>
@@ -950,7 +950,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
         <span
           className="  "
         >
-          削除する
+          削除
         </span>
       </span>
     </div>
@@ -1113,7 +1113,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1171,7 +1171,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1229,7 +1229,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1287,7 +1287,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1345,7 +1345,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1403,7 +1403,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1461,7 +1461,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
@@ -1519,7 +1519,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
               <span
                 className="  "
               >
-                削除する
+                削除
               </span>
             </span>
           </div>
