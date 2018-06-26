@@ -34,7 +34,7 @@ export const NotificationPresenter = ({
   ...props,
 }) => (
   <MediaObjectLayout tag="section" className={ [ styles.root, className ].join(' ') } { ...props }>
-    <Img src={ program.thumbnail } className={ styles.media } width="128" height="72" />
+    <Img src={ program.thumbnail } className={ styles.media } width="128" height="7" />
     <Heading level={ 3 } visualLevel={ 6 }>{ program.title }</Heading>
     <InfoTxt size="s">{ program.channelName }</InfoTxt>
     <InfoTxt size="s" className={ styles.time }>
