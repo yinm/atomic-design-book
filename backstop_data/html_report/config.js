@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/gihyo_ui_component_Balloon_4_0_document_0_pc.png",
-        "test": "../bitmaps_test/20180626-182157/gihyo_ui_component_Balloon_4_0_document_0_pc.png",
+        "test": "../bitmaps_test/20180626-182532/gihyo_ui_component_Balloon_4_0_document_0_pc.png",
         "selector": "document",
         "fileName": "gihyo_ui_component_Balloon_4_0_document_0_pc.png",
         "label": "Balloon 4文字ラベル",
