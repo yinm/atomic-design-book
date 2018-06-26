@@ -1,0 +1,1705 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Anchor LinkTxtとの組み合わせ 1`] = `
+<a
+  href="#"
+>
+  <p
+    className="  "
+  >
+    LinkTxtとの組み合わせ
+  </p>
+</a>
+`;
+
+exports[`Storyshots Anchor デフォルト 1`] = `
+<a
+  href="#"
+>
+  アンカー
+</a>
+`;
+
+exports[`Storyshots Balloon 2文字ラベル 1`] = `
+<span
+  className=" "
+>
+  次へ
+</span>
+`;
+
+exports[`Storyshots Balloon 4文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除する
+</span>
+`;
+
+exports[`Storyshots Balloon 10文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらする
+</span>
+`;
+
+exports[`Storyshots Balloon 20文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな
+</span>
+`;
+
+exports[`Storyshots Balloon 30文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな。嫌なら、やめようか
+</span>
+`;
+
+exports[`Storyshots Balloon 30文字ラベル改行 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな。
+  <br />
+  嫌なら、やめようか
+</span>
+`;
+
+exports[`Storyshots Balloon アイコンラベル 1`] = `
+<span
+  className=" "
+>
+  <img
+    alt=""
+    className=""
+    height={20}
+    onClick={undefined}
+    src="/icons/trash-can.svg"
+    width={20}
+  />
+</span>
+`;
+
+exports[`Storyshots Balloon バルーンチップ 1`] = `
+<p
+  style={
+    Object {
+      "marginTop": "50px",
+    }
+  }
+>
+  ここに
+  <span
+    className=" "
+  >
+    <span
+      className=" "
+    >
+      バルーンチップ
+    </span>
+    <span
+      className="  "
+    >
+      注釈を記述するUI
+    </span>
+  </span>
+  を表示
+</p>
+`;
+
+exports[`Storyshots Balloon 絵文字 1`] = `
+<span
+  className=" "
+>
+  ❌
+</span>
+`;
+
+exports[`Storyshots Balloon 絶対座標配置 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "left": "200px",
+      "position": "absolute",
+      "top": "200px",
+    }
+  }
+>
+  左上から 200px に配置
+</span>
+`;
+
+exports[`Storyshots Balloon 長文中のバルーンチップ 1`] = `
+<p
+  style={
+    Object {
+      "padding": "50px",
+      "width": "300px",
+    }
+  }
+>
+  専門的なことを説明する文章の場合、文章中のある言葉が一般的に使われるものでない場合などに注釈を表示したいときがあります。たとえば
+  <span
+    className=" "
+  >
+    <span
+      className=" "
+    >
+      バルーンチップ
+    </span>
+    <span
+      className="  "
+    >
+      注釈を記述するUI
+    </span>
+  </span>
+  のようなUIを使うことでそれが可能です。
+</p>
+`;
+
+exports[`Storyshots Breadcrumb デフォルト 1`] = `
+<ul
+  className={undefined}
+>
+  <li
+    className={undefined}
+  >
+    <a
+      href="#"
+    >
+      <p
+        className="  "
+      >
+        トップ
+      </p>
+    </a>
+  </li>
+  <li
+    className={undefined}
+  >
+    <span>
+      通知番組
+    </span>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Button デフォルト 1`] = `
+<button
+  className="  "
+>
+  デフォルト
+</button>
+`;
+
+exports[`Storyshots Button プライマリ 1`] = `
+<button
+  className="  "
+>
+  プライマリ
+</button>
+`;
+
+exports[`Storyshots Button 警告 1`] = `
+<button
+  className="  "
+>
+  警告
+</button>
+`;
+
+exports[`Storyshots DeleteButton デフォルト 1`] = `
+<span
+  className="  "
+  style={
+    Object {
+      "margin": "50px",
+    }
+  }
+>
+  <img
+    alt=""
+    className=" undefined"
+    height={20}
+    onClick={[Function]}
+    src="/icons/trash-can.svg"
+    width={20}
+  />
+  <span
+    className="  "
+  >
+    削除
+  </span>
+</span>
+`;
+
+exports[`Storyshots Header デフォルト 1`] = `
+<div
+  className=" "
+>
+  <nav>
+    <ul
+      className={undefined}
+    >
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          ホーム
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          番組表
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <span
+          className=" "
+        >
+          通知番組
+        </span>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          お知らせ
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          設定
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
+
+exports[`Storyshots Heading デフォルト 1`] = `
+<h2
+  className="  "
+>
+  見出し
+</h2>
+`;
+
+exports[`Storyshots Heading レベル1 1`] = `
+<h1
+  className="  "
+>
+  見出しレベル1
+</h1>
+`;
+
+exports[`Storyshots Heading レベル1、見た目2 1`] = `
+<h1
+  className="  "
+>
+  見出しレベル1、見た目2
+</h1>
+`;
+
+exports[`Storyshots Heading 下線付き 1`] = `
+<h2
+  className="   "
+>
+  下線付き
+</h2>
+`;
+
+exports[`Storyshots Heading 下線付き、レベル1 1`] = `
+<h1
+  className="   "
+>
+  見出しレベル1
+</h1>
+`;
+
+exports[`Storyshots Heading 下線付き、レベル1、見た目2 1`] = `
+<h1
+  className="   "
+>
+  下線付き、見出しレベル1、見た目2
+</h1>
+`;
+
+exports[`Storyshots HolyGrailLayout デフォルト 1`] = `
+<div
+  className=" "
+>
+  <header
+    style={
+      Object {
+        "backgroundColor": "#ccc",
+        "minHeight": "50px",
+      }
+    }
+  >
+    header
+  </header>
+  <div
+    className={undefined}
+  >
+    <main
+      style={
+        Object {
+          "backgroundColor": "#777",
+          "minHeight": "300px",
+        }
+      }
+    >
+      main
+    </main>
+    <nav
+      style={
+        Object {
+          "backgroundColor": "#aaa",
+          "minHeight": "150px",
+        }
+      }
+    >
+      nav
+    </nav>
+    <aside
+      style={
+        Object {
+          "backgroundColor": "#aaa",
+          "minHeight": "100px",
+        }
+      }
+    >
+      aside
+    </aside>
+  </div>
+  <footer
+    style={
+      Object {
+        "backgroundColor": "#ccc",
+        "minHeight": "50px",
+      }
+    }
+  >
+    footer
+  </footer>
+</div>
+`;
+
+exports[`Storyshots HoverTipInteraction デフォルト 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "display": "inline-block",
+      "margin": "50px",
+    }
+  }
+>
+  <span>
+    ホバーしてね
+  </span>
+  <span
+    className=" "
+  >
+    チップだよ
+  </span>
+</span>
+`;
+
+exports[`Storyshots HoverTipInteraction マーカー 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "display": "inline-block",
+      "margin": "50px",
+    }
+  }
+>
+  <span
+    className=" "
+  >
+    ホバーしてね
+  </span>
+  <span
+    className=" "
+  >
+    チップだよ
+  </span>
+</span>
+`;
+
+exports[`Storyshots Icon ChevronRightIcon 1`] = `
+<img
+  alt=""
+  className=""
+  height={20}
+  onClick={undefined}
+  src="/icons/chevron-right.svg"
+  width={20}
+/>
+`;
+
+exports[`Storyshots Icon SearchIcon 1`] = `
+<img
+  alt=""
+  className=""
+  height={20}
+  onClick={undefined}
+  src="/icons/search.svg"
+  width={20}
+/>
+`;
+
+exports[`Storyshots Icon SettingsIcon 1`] = `
+<img
+  alt=""
+  className=""
+  height={20}
+  onClick={undefined}
+  src="/icons/settings.svg"
+  width={20}
+/>
+`;
+
+exports[`Storyshots Icon TrashCanIcon 1`] = `
+<img
+  alt=""
+  className=""
+  height={20}
+  onClick={undefined}
+  src="/icons/trash-can.svg"
+  width={20}
+/>
+`;
+
+exports[`Storyshots Icon クリッカブル 1`] = `
+<img
+  alt=""
+  className=" undefined"
+  height={20}
+  onClick={[Function]}
+  src="/icons/trash-can.svg"
+  width={20}
+/>
+`;
+
+exports[`Storyshots Img デフォルト 1`] = `
+<img
+  height="72"
+  src="/mock/images/img01.jpg"
+  width="128"
+/>
+`;
+
+exports[`Storyshots MailAuthForm デフォルト 1`] = `
+<form
+  onClick={[Function]}
+>
+  <p
+    className={undefined}
+  >
+    メールを入力してください
+  </p>
+  <div>
+    <input
+      className=" "
+      type="text"
+    />
+    <button
+      className="  "
+      onClick={undefined}
+    >
+      認証メール送信
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Storyshots MediaObjectLayout section 指定 1`] = `
+<section
+  className=" "
+>
+  <div>
+    <div>
+      <img
+        alt="MediaObjectLayout を説明するためのサンプル画像"
+        height="108"
+        src="mock/images/img01.jpg"
+        width="192"
+      />
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut dictum purus. Praesent id pulvinar sem, eu congue velit. Etiam porta luctus tellus, quis finibus quam condimentum eu. Cras vestibulum mauris non tempus congue.
+    </p>
+    <p>
+      Sed pellentesque suscipit ex sed consequat. Fusce lobortis tincidunt euismod. Etiam sollicitudin molestie semper. Donec mi sem, molestie at molestie id, posuere ac lectus. Duis mollis, mauris venenatis sagittis porta, quam velit dictum diam, non aliquam nunc elit ut ex.
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Storyshots MediaObjectLayout デフォルト 1`] = `
+<div
+  className=" "
+>
+  <div>
+    <div>
+      <img
+        alt="MediaObjectLayout を説明するためのサンプル画像"
+        height="108"
+        src="mock/images/img01.jpg"
+        width="192"
+      />
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut dictum purus. Praesent id pulvinar sem, eu congue velit. Etiam porta luctus tellus, quis finibus quam condimentum eu. Cras vestibulum mauris non tempus congue.
+    </p>
+    <p>
+      Sed pellentesque suscipit ex sed consequat. Fusce lobortis tincidunt euismod. Etiam sollicitudin molestie semper. Donec mi sem, molestie at molestie id, posuere ac lectus. Duis mollis, mauris venenatis sagittis porta, quam velit dictum diam, non aliquam nunc elit ut ex.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Navigation デフォルト 1`] = `
+<nav
+  style={
+    Object {
+      "backgroundColor": "black",
+      "padding": "1rem",
+    }
+  }
+>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        ホーム
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        番組表
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <span
+        className=" "
+      >
+        通知番組
+      </span>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        お知らせ
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        設定
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Storyshots Notification デフォルト 1`] = `
+<section
+  className="  "
+>
+  <div>
+    <img
+      className={undefined}
+      height="72"
+      src="/mock/images/img01.jpg"
+      width="128"
+    />
+  </div>
+  <div
+    className={undefined}
+  >
+    <h3
+      className="  "
+    >
+      コンポーネント指向で UI を設計しよう！第1話
+    </h3>
+    <p
+      className="  "
+    >
+      UI チャンネル
+    </p>
+    <p
+      className="  "
+    >
+      <time
+        dateTime="2017-10-03T21:00"
+      >
+        10月03日(火)21:00
+      </time>
+       ～
+      <time
+        dateTime="2017-10-03T22:00"
+      >
+        22:00
+      </time>
+    </p>
+    <span
+      className="  "
+    >
+      <img
+        alt=""
+        className=" undefined"
+        height={20}
+        onClick={[Function]}
+        src="/icons/trash-can.svg"
+        width={20}
+      />
+      <span
+        className="  "
+      >
+        削除
+      </span>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`Storyshots NotificationList デフォルト 1`] = `
+<div>
+  <section
+    className="  "
+  >
+    <div>
+      <img
+        className={undefined}
+        height="72"
+        src="/mock/images/192/108/img01.jpg"
+        width="128"
+      />
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第1話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T21:00"
+        >
+          10月03日(火)21:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          22:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <img
+          alt=""
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          src="/icons/trash-can.svg"
+          width={20}
+        />
+        <span
+          className="  "
+        >
+          削除
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <img
+        className={undefined}
+        height="72"
+        src="/mock/images/192/108/img02.jpg"
+        width="128"
+      />
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第2話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          10月03日(火)22:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T23:00"
+        >
+          23:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <img
+          alt=""
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          src="/icons/trash-can.svg"
+          width={20}
+        />
+        <span
+          className="  "
+        >
+          削除
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <img
+        className={undefined}
+        height="72"
+        src="/mock/images/192/108/img01.jpg"
+        width="128"
+      />
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第1話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T21:00"
+        >
+          10月03日(火)21:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          22:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <img
+          alt=""
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          src="/icons/trash-can.svg"
+          width={20}
+        />
+        <span
+          className="  "
+        >
+          削除
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <img
+        className={undefined}
+        height="72"
+        src="/mock/images/192/108/img02.jpg"
+        width="128"
+      />
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第2話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          10月03日(火)22:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T23:00"
+        >
+          23:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <img
+          alt=""
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          src="/icons/trash-can.svg"
+          width={20}
+        />
+        <span
+          className="  "
+        >
+          削除
+        </span>
+      </span>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
+<div>
+  <div
+    className={undefined}
+  >
+    <div
+      className=" "
+    >
+      <nav>
+        <ul
+          className={undefined}
+        >
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              ホーム
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              番組表
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <span
+              className=" "
+            >
+              通知番組
+            </span>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              お知らせ
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              設定
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <main
+      className={undefined}
+    >
+      <div
+        className={undefined}
+      >
+        <ul
+          className={undefined}
+        >
+          <li
+            className={undefined}
+          >
+            <a
+              href="#"
+            >
+              <p
+                className="  "
+              >
+                トップ
+              </p>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <span>
+              通知番組
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div
+        className={undefined}
+      >
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img01.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img02.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img01.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img02.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img01.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img02.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img01.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <img
+              className={undefined}
+              height="72"
+              src="/mock/images/img02.jpg"
+              width="128"
+            />
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <img
+                alt=""
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                src="/icons/trash-can.svg"
+                width={20}
+              />
+              <span
+                className="  "
+              >
+                削除
+              </span>
+            </span>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots PageHeader デフォルト 1`] = `
+<div
+  className={undefined}
+>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        href="#"
+      >
+        <p
+          className="  "
+        >
+          トップ
+        </p>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <span>
+        通知番組
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots StickyHeaderLayout デフォルト 1`] = `
+<div
+  style={
+    Object {
+      "zIndex": 1,
+    }
+  }
+>
+  <div
+    className={undefined}
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "black",
+          "color": "white",
+          "height": "50px",
+        }
+      }
+    >
+      ヘッダー
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p
+      style={
+        Object {
+          "background": "linear-gradient(to bottom, #1e5799 0%,#7db9e8 100%)",
+          "height": "150vh",
+        }
+      }
+    >
+      本体
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextBox デフォルト 1`] = `
+<input
+  className=" "
+  type="text"
+/>
+`;
+
+exports[`Storyshots Time HH:mm 1`] = `
+<time
+  dateTime="2017-10-03T21:00"
+>
+  21:00
+</time>
+`;
+
+exports[`Storyshots Time デフォルト 1`] = `
+<time
+  dateTime="2017-10-03T21:00"
+>
+  10月03日(火)21:00
+</time>
+`;
+
+exports[`Storyshots Time 無効な時間表現 1`] = `
+<time
+  dateTime="Invalid date"
+>
+  有効な時間表現ではありません
+</time>
+`;
+
+exports[`Storyshots Txt テキスト - L 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt テキスト - M 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt テキスト - S 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - L 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - M 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - S 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - L 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - M 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - S 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;

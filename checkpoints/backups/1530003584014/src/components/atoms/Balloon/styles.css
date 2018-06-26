@@ -6,7 +6,7 @@
   color: var(--color-text-outlined);
   display: inline-block;
   font-size: var(--font-size-s);
-  padding: 0.4rem 0.6rem;
+  padding: 0.4rem 0.5rem;
   position: relative;
 }
 
