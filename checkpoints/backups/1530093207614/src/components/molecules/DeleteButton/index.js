@@ -7,7 +7,7 @@ import HoverTipInteraction, { Tip } from '../../atoms/HoverTipInteraction/index.
 const DeleteButton = ({ className, onClick, ...props }) => (
   <HoverTipInteraction className={ [ styles.root, className ].join(' ') } { ...props }>
     <TrashCanIcon onClick={ onClick } />
-    <Tip><Balloon>削除する</Balloon></Tip>
+    <Tip><Balloon>削除</Balloon></Tip>
   </HoverTipInteraction>
 );
 
