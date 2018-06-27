@@ -27,7 +27,7 @@ export const HeadingContainer = ({
   ...props,
 }) => {
   level = Math.max(1, Math.min(6, level));
-  visualLevel = Math.max(1, Math.min(6, (typeof visualLevel !== 'undefined') ? visualLevel : level))
+  visualLevel = (typeof visualLevel !== 'undefined') ? visualLevel : level;
   const tag = `h${ level }`;
 
   return presenter({ tag, visualLevel, ...props });
