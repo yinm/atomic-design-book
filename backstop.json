@@ -34,6 +34,11 @@
       "label": "NotificationList2Template",
       "url": "http://localhost:9001/iframe.html?selectedKind=NotificationList2Template&selectedStory=default",
       "misMatchThreshold": 0.0000000001
+    },
+    {
+      "label": "MailAuthForm",
+      "url": "http://localhost:9001/iframe.html?selectedKind=MailAuthForm&selectedStory=デフォルト",
+      "misMatchThreshold": 0.0000000001
     }
   ],
   "paths": {
