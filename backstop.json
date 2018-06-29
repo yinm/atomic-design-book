@@ -2,6 +2,11 @@
   "id": "gihyo_ui_component",
   "viewports": [
     {
+      "name": "tablet",
+      "width": 568,
+      "height": 1024
+    },
+    {
       "label": "pc",
       "width": 1024,
       "height": 768
@@ -23,6 +28,11 @@
     {
       "label": "NotificationList",
       "url": "http://localhost:9001/iframe.html?selectedKind=NotificationList&selectedStory=デフォルト",
+      "misMatchThreshold": 0.0000000001
+    },
+    {
+      "label": "NotificationList2Template",
+      "url": "http://localhost:9001/iframe.html?selectedKind=NotificationList2Template&selectedStory=default",
       "misMatchThreshold": 0.0000000001
     }
   ],
