@@ -1,0 +1,5170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Anchor LinkTxtとの組み合わせ 1`] = `
+<a
+  href="#"
+>
+  <p
+    className="  "
+  >
+    LinkTxtとの組み合わせ
+  </p>
+</a>
+`;
+
+exports[`Storyshots Anchor デフォルト 1`] = `
+<a
+  href="#"
+>
+  アンカー
+</a>
+`;
+
+exports[`Storyshots Balloon 2文字ラベル 1`] = `
+<span
+  className=" "
+>
+  次へ
+</span>
+`;
+
+exports[`Storyshots Balloon 4文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除する
+</span>
+`;
+
+exports[`Storyshots Balloon 10文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらする
+</span>
+`;
+
+exports[`Storyshots Balloon 20文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな
+</span>
+`;
+
+exports[`Storyshots Balloon 30文字ラベル 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな。嫌なら、やめようか
+</span>
+`;
+
+exports[`Storyshots Balloon 30文字ラベル改行 1`] = `
+<span
+  className=" "
+>
+  削除したかったらするけど、どうしたいかな。
+  <br />
+  嫌なら、やめようか
+</span>
+`;
+
+exports[`Storyshots Balloon アイコンラベル 1`] = `
+<span
+  className=" "
+>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#trash-can"
+    />
+  </svg>
+</span>
+`;
+
+exports[`Storyshots Balloon バルーンチップ 1`] = `
+<p
+  style={
+    Object {
+      "marginTop": "50px",
+    }
+  }
+>
+  ここに
+  <span
+    className=" "
+  >
+    <span
+      className=" "
+    >
+      バルーンチップ
+    </span>
+    <span
+      className="  "
+    >
+      注釈を記述するUI
+    </span>
+  </span>
+  を表示
+</p>
+`;
+
+exports[`Storyshots Balloon 絵文字 1`] = `
+<span
+  className=" "
+>
+  ❌
+</span>
+`;
+
+exports[`Storyshots Balloon 絶対座標配置 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "left": "200px",
+      "position": "absolute",
+      "top": "200px",
+    }
+  }
+>
+  左上から 200px に配置
+</span>
+`;
+
+exports[`Storyshots Balloon 長文中のバルーンチップ 1`] = `
+<p
+  style={
+    Object {
+      "padding": "50px",
+      "width": "300px",
+    }
+  }
+>
+  専門的なことを説明する文章の場合、文章中のある言葉が一般的に使われるものでない場合などに注釈を表示したいときがあります。たとえば
+  <span
+    className=" "
+  >
+    <span
+      className=" "
+    >
+      バルーンチップ
+    </span>
+    <span
+      className="  "
+    >
+      注釈を記述するUI
+    </span>
+  </span>
+  のようなUIを使うことでそれが可能です。
+</p>
+`;
+
+exports[`Storyshots Breadcrumb デフォルト 1`] = `
+<ul
+  className={undefined}
+>
+  <li
+    className={undefined}
+  >
+    <a
+      href="#"
+    >
+      <p
+        className="  "
+      >
+        トップ
+      </p>
+    </a>
+  </li>
+  <li
+    className={undefined}
+  >
+    <span>
+      通知番組
+    </span>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Button デフォルト 1`] = `
+<button
+  className="  "
+>
+  デフォルト
+</button>
+`;
+
+exports[`Storyshots Button プライマリ 1`] = `
+<button
+  className="  "
+>
+  プライマリ
+</button>
+`;
+
+exports[`Storyshots Button 警告 1`] = `
+<button
+  className="  "
+>
+  警告
+</button>
+`;
+
+exports[`Storyshots Card デフォルト 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "gray",
+      "height": "100vh",
+      "padding": "50px",
+    }
+  }
+>
+  <section
+    className=" "
+  >
+    カード
+  </section>
+</div>
+`;
+
+exports[`Storyshots Card 見出し付き 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "gray",
+      "height": "100vh",
+      "padding": "50px",
+    }
+  }
+>
+  <section
+    className=" "
+  >
+    <div
+      className=" "
+    >
+      <h6
+        className="   "
+      >
+        見出し
+      </h6>
+    </div>
+    カード
+  </section>
+</div>
+`;
+
+exports[`Storyshots ChannelList デフォルト 1`] = `
+<section
+  className=" "
+>
+  <div
+    className=" "
+  >
+    <h6
+      className="   "
+    >
+      チャンネル一覧
+    </h6>
+  </div>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          ドラマ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          アニメ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          スポーツ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          麻雀
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          釣り
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          CM
+        </span>
+      </a>
+    </li>
+  </ul>
+</section>
+`;
+
+exports[`Storyshots Copyright デフォルト 1`] = `
+<p
+  className="  "
+>
+  Copyright 息 
+  Yusuke Goto
+   All Rights Reserved.
+</p>
+`;
+
+exports[`Storyshots DeleteButton デフォルト 1`] = `
+<span
+  className="  "
+  style={
+    Object {
+      "margin": "50px",
+    }
+  }
+>
+  <svg
+    className=" undefined"
+    height={20}
+    onClick={[Function]}
+    width={20}
+  >
+    <use
+      href="/icons.svg#trash-can"
+    />
+  </svg>
+  <span
+    className="  "
+  >
+    削除する
+  </span>
+</span>
+`;
+
+exports[`Storyshots Footer デフォルト 1`] = `
+<footer
+  className=" "
+>
+  <p
+    className="  "
+  >
+    Copyright 息 
+    Yusuke Goto
+     All Rights Reserved.
+  </p>
+</footer>
+`;
+
+exports[`Storyshots Header デフォルト 1`] = `
+<div
+  className=" "
+>
+  <nav>
+    <ul
+      className={undefined}
+    >
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          ホーム
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          番組表
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <span
+          className=" "
+        >
+          通知番組
+        </span>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          お知らせ
+        </a>
+      </li>
+      <li
+        className={undefined}
+      >
+        <a
+          className={undefined}
+          href="#"
+        >
+          設定
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
+
+exports[`Storyshots Heading デフォルト 1`] = `
+<h2
+  className="  "
+>
+  見出し
+</h2>
+`;
+
+exports[`Storyshots Heading レベル1 1`] = `
+<h1
+  className="  "
+>
+  見出しレベル1
+</h1>
+`;
+
+exports[`Storyshots Heading レベル1、見た目2 1`] = `
+<h1
+  className="  "
+>
+  見出しレベル1、見た目2
+</h1>
+`;
+
+exports[`Storyshots Heading 下線付き 1`] = `
+<h2
+  className="   "
+>
+  下線付き
+</h2>
+`;
+
+exports[`Storyshots Heading 下線付き、レベル1 1`] = `
+<h1
+  className="   "
+>
+  見出しレベル1
+</h1>
+`;
+
+exports[`Storyshots Heading 下線付き、レベル1、見た目2 1`] = `
+<h1
+  className="   "
+>
+  下線付き、見出しレベル1、見た目2
+</h1>
+`;
+
+exports[`Storyshots Heading 白抜き 1`] = `
+<h2
+  className="   "
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  下線付き
+</h2>
+`;
+
+exports[`Storyshots Heading 白抜き、レベル1 1`] = `
+<h1
+  className="   "
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  見出しレベル1
+</h1>
+`;
+
+exports[`Storyshots Heading 白抜き、レベル1、見た目2 1`] = `
+<h1
+  className="   "
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  下線付き、見出しレベル1、見た目2
+</h1>
+`;
+
+exports[`Storyshots HolyGrailLayout デフォルト 1`] = `
+<div
+  className=" "
+>
+  <header
+    style={
+      Object {
+        "backgroundColor": "#ccc",
+        "minHeight": "50px",
+      }
+    }
+  >
+    header
+  </header>
+  <div
+    className={undefined}
+  >
+    <main
+      style={
+        Object {
+          "backgroundColor": "#777",
+          "minHeight": "300px",
+        }
+      }
+    >
+      main
+    </main>
+    <nav
+      style={
+        Object {
+          "backgroundColor": "#aaa",
+          "minHeight": "150px",
+        }
+      }
+    >
+      nav
+    </nav>
+    <aside
+      style={
+        Object {
+          "backgroundColor": "#aaa",
+          "minHeight": "100px",
+        }
+      }
+    >
+      aside
+    </aside>
+  </div>
+  <footer
+    style={
+      Object {
+        "backgroundColor": "#ccc",
+        "minHeight": "50px",
+      }
+    }
+  >
+    footer
+  </footer>
+</div>
+`;
+
+exports[`Storyshots HoverTipInteraction デフォルト 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "display": "inline-block",
+      "margin": "50px",
+    }
+  }
+>
+  <span>
+    ホバーしてね
+  </span>
+  <span
+    className=" "
+  >
+    チップだよ
+  </span>
+</span>
+`;
+
+exports[`Storyshots HoverTipInteraction マーカー 1`] = `
+<span
+  className=" "
+  style={
+    Object {
+      "display": "inline-block",
+      "margin": "50px",
+    }
+  }
+>
+  <span
+    className=" "
+  >
+    ホバーしてね
+  </span>
+  <span
+    className=" "
+  >
+    チップだよ
+  </span>
+</span>
+`;
+
+exports[`Storyshots Icon ChevronRightIcon 1`] = `
+<svg
+  className=""
+  height={20}
+  onClick={undefined}
+  width={20}
+>
+  <use
+    href="/icons.svg#chevron-right"
+  />
+</svg>
+`;
+
+exports[`Storyshots Icon SearchIcon 1`] = `
+<svg
+  className=""
+  height={20}
+  onClick={undefined}
+  width={20}
+>
+  <use
+    href="/icons.svg#search"
+  />
+</svg>
+`;
+
+exports[`Storyshots Icon SettingsIcon 1`] = `
+<svg
+  className=""
+  height={20}
+  onClick={undefined}
+  width={20}
+>
+  <use
+    href="/icons.svg#settings"
+  />
+</svg>
+`;
+
+exports[`Storyshots Icon TrashCanIcon 1`] = `
+<svg
+  className=""
+  height={20}
+  onClick={undefined}
+  width={20}
+>
+  <use
+    href="/icons.svg#trash-can"
+  />
+</svg>
+`;
+
+exports[`Storyshots Icon クリッカブル 1`] = `
+<svg
+  className=" undefined"
+  height={20}
+  onClick={[Function]}
+  width={20}
+>
+  <use
+    href="/icons.svg#trash-can"
+  />
+</svg>
+`;
+
+exports[`Storyshots Icon 一覧 1`] = `
+<div>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#trash-can"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#chevron-right"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#alarm"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#bluetooth"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#cached"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#call"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#cast"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#check-circle"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#cloud-download"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#computer"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#email"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#face"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#favorite"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#get-app"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#headset"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#home"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#image"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#mic"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#notifications"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#perm-identity"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#photo-camera"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#question-answer"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#repeat"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#room"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#search"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#settings"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#shopping-cart"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#thumb-up"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#visibility"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#volume-up"
+    />
+  </svg>
+  <svg
+    className=""
+    height={20}
+    onClick={undefined}
+    width={20}
+  >
+    <use
+      href="/icons.svg#zoom-in"
+    />
+  </svg>
+</div>
+`;
+
+exports[`Storyshots Img 20倍の画像 1`] = `
+<picture>
+  <source
+    srcSet="/mock/images/192/108/img01.webp 1x, /mock/images/288/162/img01.webp 1.5x, /mock/images/384/216/img01.webp 2x, /mock/images/576/324/img01.webp 3x, /mock/images/768/432/img01.webp 4x"
+    type="image/webp"
+  />
+  <img
+    alt={undefined}
+    height="108"
+    src="/mock/images/192/108/img01.jpg"
+    srcSet="/mock/images/192/108/img01.jpg 1x, /mock/images/288/162/img01.jpg 1.5x, /mock/images/384/216/img01.jpg 2x, /mock/images/576/324/img01.jpg 3x, /mock/images/768/432/img01.jpg 4x"
+    width="192"
+  />
+</picture>
+`;
+
+exports[`Storyshots Img デフォルト 1`] = `
+<picture>
+  <source
+    srcSet="/mock/images/img01.webp"
+    type="image/webp"
+  />
+  <img
+    alt={undefined}
+    height="72"
+    src="/mock/images/img01.jpg"
+    srcSet="/mock/images/img01.jpg"
+    width="128"
+  />
+</picture>
+`;
+
+exports[`Storyshots Img 適切なサイズ指定 1`] = `
+<picture>
+  <source
+    srcSet="/mock/images/192/108/img01.webp 1x, /mock/images/288/162/img01.webp 1.5x, /mock/images/384/216/img01.webp 2x, /mock/images/576/324/img01.webp 3x, /mock/images/768/432/img01.webp 4x"
+    type="image/webp"
+  />
+  <img
+    alt={undefined}
+    height="108"
+    src="/mock/images/192/108/img01.jpg"
+    srcSet="/mock/images/192/108/img01.jpg 1x, /mock/images/288/162/img01.jpg 1.5x, /mock/images/384/216/img01.jpg 2x, /mock/images/576/324/img01.jpg 3x, /mock/images/768/432/img01.jpg 4x"
+    width="192"
+  />
+</picture>
+`;
+
+exports[`Storyshots LayoutThrashing デフォルト 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <ul />
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={true}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={undefined}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              アイテム追加
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots MailAuthForm デフォルト 1`] = `
+<form
+  onClick={[Function]}
+>
+  <p
+    className={undefined}
+  >
+    メールを入力してください
+  </p>
+  <div
+    className={undefined}
+  >
+    <input
+      className=" "
+      type="text"
+    />
+    <button
+      className="  "
+      onClick={undefined}
+    >
+      認証メール送信
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Storyshots MediaObjectLayout section 指定 1`] = `
+<section
+  className=" "
+>
+  <div>
+    <div>
+      <img
+        alt="MediaObjectLayout を説明するためのサンプル画像"
+        height="108"
+        src="mock/images/img01.jpg"
+        width="192"
+      />
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut dictum purus. Praesent id pulvinar sem, eu congue velit. Etiam porta luctus tellus, quis finibus quam condimentum eu. Cras vestibulum mauris non tempus congue.
+    </p>
+    <p>
+      Sed pellentesque suscipit ex sed consequat. Fusce lobortis tincidunt euismod. Etiam sollicitudin molestie semper. Donec mi sem, molestie at molestie id, posuere ac lectus. Duis mollis, mauris venenatis sagittis porta, quam velit dictum diam, non aliquam nunc elit ut ex.
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Storyshots MediaObjectLayout デフォルト 1`] = `
+<div
+  className=" "
+>
+  <div>
+    <div>
+      <img
+        alt="MediaObjectLayout を説明するためのサンプル画像"
+        height="108"
+        src="mock/images/img01.jpg"
+        width="192"
+      />
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut dictum purus. Praesent id pulvinar sem, eu congue velit. Etiam porta luctus tellus, quis finibus quam condimentum eu. Cras vestibulum mauris non tempus congue.
+    </p>
+    <p>
+      Sed pellentesque suscipit ex sed consequat. Fusce lobortis tincidunt euismod. Etiam sollicitudin molestie semper. Donec mi sem, molestie at molestie id, posuere ac lectus. Duis mollis, mauris venenatis sagittis porta, quam velit dictum diam, non aliquam nunc elit ut ex.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Menu デフォルト 1`] = `
+<section
+  className=" "
+>
+  <div
+    className=" "
+  >
+    <h6
+      className="   "
+    >
+      メニュー見出し
+    </h6>
+  </div>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          ドラマ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          アニメ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          スポーツ
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          麻雀
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          釣り
+        </span>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        <span
+          className="  "
+        >
+          CM
+        </span>
+      </a>
+    </li>
+  </ul>
+</section>
+`;
+
+exports[`Storyshots Navigation デフォルト 1`] = `
+<nav
+  style={
+    Object {
+      "backgroundColor": "black",
+      "padding": "1rem",
+    }
+  }
+>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        ホーム
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        番組表
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <span
+        className=" "
+      >
+        通知番組
+      </span>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        お知らせ
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <a
+        className={undefined}
+        href="#"
+      >
+        設定
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Storyshots Notification デフォルト 1`] = `
+<section
+  className="  "
+>
+  <div>
+    <picture
+      className={undefined}
+    >
+      <source
+        srcSet="/mock/images/img01.webp"
+        type="image/webp"
+      />
+      <img
+        alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+        height="72"
+        src="/mock/images/img01.jpg"
+        srcSet="/mock/images/img01.jpg"
+        width="128"
+      />
+    </picture>
+  </div>
+  <div
+    className={undefined}
+  >
+    <h3
+      className="  "
+    >
+      コンポーネント指向で UI を設計しよう！第1話
+    </h3>
+    <p
+      className="  "
+    >
+      UI チャンネル
+    </p>
+    <p
+      className="  "
+    >
+      <time
+        dateTime="2017-10-03T21:00"
+      >
+        10月03日(火)21:00
+      </time>
+       ～
+      <time
+        dateTime="2017-10-03T22:00"
+      >
+        22:00
+      </time>
+    </p>
+    <span
+      className="  "
+    >
+      <svg
+        className=" undefined"
+        height={20}
+        onClick={[Function]}
+        width={20}
+      >
+        <use
+          href="/icons.svg#trash-can"
+        />
+      </svg>
+      <span
+        className="  "
+      >
+        削除する
+      </span>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Notification 性能確認：タイトル変更 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <section
+    className="  "
+  >
+    <div>
+      <picture
+        className={undefined}
+      >
+        <source
+          srcSet="/mock/images/img01.webp"
+          type="image/webp"
+        />
+        <img
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+          height="72"
+          src="/mock/images/img01.jpg"
+          srcSet="/mock/images/img01.jpg"
+          width="128"
+        />
+      </picture>
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第1話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T21:00"
+        >
+          10月03日(火)21:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          22:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <svg
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          width={20}
+        >
+          <use
+            href="/icons.svg#trash-can"
+          />
+        </svg>
+        <span
+          className="  "
+        >
+          削除する
+        </span>
+      </span>
+    </div>
+  </section>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={true}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={undefined}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              タイトル変更
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NotificationList デフォルト 1`] = `
+<div>
+  <section
+    className="  "
+  >
+    <div>
+      <picture
+        className={undefined}
+      >
+        <source
+          srcSet="/mock/images/128/72/img01.webp 1x, /mock/images/192/108/img01.webp 1.5x, /mock/images/256/144/img01.webp 2x, /mock/images/384/216/img01.webp 3x, /mock/images/512/288/img01.webp 4x"
+          type="image/webp"
+        />
+        <img
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+          height="72"
+          src="/mock/images/128/72/img01.jpg"
+          srcSet="/mock/images/128/72/img01.jpg 1x, /mock/images/192/108/img01.jpg 1.5x, /mock/images/256/144/img01.jpg 2x, /mock/images/384/216/img01.jpg 3x, /mock/images/512/288/img01.jpg 4x"
+          width="128"
+        />
+      </picture>
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第1話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T21:00"
+        >
+          10月03日(火)21:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          22:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <svg
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          width={20}
+        >
+          <use
+            href="/icons.svg#trash-can"
+          />
+        </svg>
+        <span
+          className="  "
+        >
+          削除する
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <picture
+        className={undefined}
+      >
+        <source
+          srcSet="/mock/images/128/72/img02.webp 1x, /mock/images/192/108/img02.webp 1.5x, /mock/images/256/144/img02.webp 2x, /mock/images/384/216/img02.webp 3x, /mock/images/512/288/img02.webp 4x"
+          type="image/webp"
+        />
+        <img
+          alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+          height="72"
+          src="/mock/images/128/72/img02.jpg"
+          srcSet="/mock/images/128/72/img02.jpg 1x, /mock/images/192/108/img02.jpg 1.5x, /mock/images/256/144/img02.jpg 2x, /mock/images/384/216/img02.jpg 3x, /mock/images/512/288/img02.jpg 4x"
+          width="128"
+        />
+      </picture>
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第2話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          10月03日(火)22:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T23:00"
+        >
+          23:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <svg
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          width={20}
+        >
+          <use
+            href="/icons.svg#trash-can"
+          />
+        </svg>
+        <span
+          className="  "
+        >
+          削除する
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <picture
+        className={undefined}
+      >
+        <source
+          srcSet="/mock/images/128/72/img01.webp 1x, /mock/images/192/108/img01.webp 1.5x, /mock/images/256/144/img01.webp 2x, /mock/images/384/216/img01.webp 3x, /mock/images/512/288/img01.webp 4x"
+          type="image/webp"
+        />
+        <img
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+          height="72"
+          src="/mock/images/128/72/img01.jpg"
+          srcSet="/mock/images/128/72/img01.jpg 1x, /mock/images/192/108/img01.jpg 1.5x, /mock/images/256/144/img01.jpg 2x, /mock/images/384/216/img01.jpg 3x, /mock/images/512/288/img01.jpg 4x"
+          width="128"
+        />
+      </picture>
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第1話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T21:00"
+        >
+          10月03日(火)21:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          22:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <svg
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          width={20}
+        >
+          <use
+            href="/icons.svg#trash-can"
+          />
+        </svg>
+        <span
+          className="  "
+        >
+          削除する
+        </span>
+      </span>
+    </div>
+  </section>
+  <section
+    className="  "
+  >
+    <div>
+      <picture
+        className={undefined}
+      >
+        <source
+          srcSet="/mock/images/128/72/img02.webp 1x, /mock/images/192/108/img02.webp 1.5x, /mock/images/256/144/img02.webp 2x, /mock/images/384/216/img02.webp 3x, /mock/images/512/288/img02.webp 4x"
+          type="image/webp"
+        />
+        <img
+          alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+          height="72"
+          src="/mock/images/128/72/img02.jpg"
+          srcSet="/mock/images/128/72/img02.jpg 1x, /mock/images/192/108/img02.jpg 1.5x, /mock/images/256/144/img02.jpg 2x, /mock/images/384/216/img02.jpg 3x, /mock/images/512/288/img02.jpg 4x"
+          width="128"
+        />
+      </picture>
+    </div>
+    <div
+      className={undefined}
+    >
+      <h3
+        className="  "
+      >
+        コンポーネント指向で UI を設計しよう！第2話
+      </h3>
+      <p
+        className="  "
+      >
+        UI チャンネル
+      </p>
+      <p
+        className="  "
+      >
+        <time
+          dateTime="2017-10-03T22:00"
+        >
+          10月03日(火)22:00
+        </time>
+         ～
+        <time
+          dateTime="2017-10-03T23:00"
+        >
+          23:00
+        </time>
+      </p>
+      <span
+        className="  "
+      >
+        <svg
+          className=" undefined"
+          height={20}
+          onClick={[Function]}
+          width={20}
+        >
+          <use
+            href="/icons.svg#trash-can"
+          />
+        </svg>
+        <span
+          className="  "
+        >
+          削除する
+        </span>
+      </span>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots NotificationList2Template デフォルト 1`] = `
+<div
+  className=" "
+>
+  <div
+    className=" "
+  >
+    <nav>
+      <ul
+        className={undefined}
+      >
+        <li
+          className={undefined}
+        >
+          <a
+            className={undefined}
+            href="#"
+          >
+            ホーム
+          </a>
+        </li>
+        <li
+          className={undefined}
+        >
+          <a
+            className={undefined}
+            href="#"
+          >
+            番組表
+          </a>
+        </li>
+        <li
+          className={undefined}
+        >
+          <span
+            className=" "
+          >
+            通知番組
+          </span>
+        </li>
+        <li
+          className={undefined}
+        >
+          <a
+            className={undefined}
+            href="#"
+          >
+            お知らせ
+          </a>
+        </li>
+        <li
+          className={undefined}
+        >
+          <a
+            className={undefined}
+            href="#"
+          >
+            設定
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div
+    className={undefined}
+  >
+    <main
+      className=" "
+    >
+      <div>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+      </div>
+    </main>
+    <div
+      className={undefined}
+    >
+      <ul
+        className={undefined}
+      >
+        <li
+          className={undefined}
+        >
+          <a
+            href="#"
+          >
+            <p
+              className="  "
+            >
+              トップ
+            </p>
+          </a>
+        </li>
+        <li
+          className={undefined}
+        >
+          <span>
+            通知番組
+          </span>
+        </li>
+      </ul>
+    </div>
+    <aside
+      className={undefined}
+    >
+      <section
+        className=" "
+      >
+        <div
+          className=" "
+        >
+          <h6
+            className="   "
+          >
+            チャンネル一覧
+          </h6>
+        </div>
+        <ul
+          className={undefined}
+        >
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                ドラマ
+              </span>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                アニメ
+              </span>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                スポーツ
+              </span>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                麻雀
+              </span>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                釣り
+              </span>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              <span
+                className="  "
+              >
+                CM
+              </span>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+  <footer
+    className=" "
+  >
+    <p
+      className="  "
+    >
+      Copyright 息 
+      Yusuke Goto
+       All Rights Reserved.
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
+<div>
+  <div
+    className={undefined}
+  >
+    <div
+      className=" "
+    >
+      <nav>
+        <ul
+          className={undefined}
+        >
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              ホーム
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              番組表
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <span
+              className=" "
+            >
+              通知番組
+            </span>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              お知らせ
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <a
+              className={undefined}
+              href="#"
+            >
+              設定
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <main
+      className={undefined}
+    >
+      <div
+        className={undefined}
+      >
+        <ul
+          className={undefined}
+        >
+          <li
+            className={undefined}
+          >
+            <a
+              href="#"
+            >
+              <p
+                className="  "
+              >
+                トップ
+              </p>
+            </a>
+          </li>
+          <li
+            className={undefined}
+          >
+            <span>
+              通知番組
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div
+        className={undefined}
+      >
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img01.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img01.jpg"
+                srcSet="/mock/images/img01.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第1話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T21:00"
+              >
+                10月03日(火)21:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                22:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+        <section
+          className="  "
+        >
+          <div>
+            <picture
+              className={undefined}
+            >
+              <source
+                srcSet="/mock/images/img02.webp"
+                type="image/webp"
+              />
+              <img
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
+                height="72"
+                src="/mock/images/img02.jpg"
+                srcSet="/mock/images/img02.jpg"
+                width="128"
+              />
+            </picture>
+          </div>
+          <div
+            className={undefined}
+          >
+            <h3
+              className="  "
+            >
+              コンポーネント指向で UI を設計しよう！第2話
+            </h3>
+            <p
+              className="  "
+            >
+              UI チャンネル
+            </p>
+            <p
+              className="  "
+            >
+              <time
+                dateTime="2017-10-03T22:00"
+              >
+                10月03日(火)22:00
+              </time>
+               ～
+              <time
+                dateTime="2017-10-03T23:00"
+              >
+                23:00
+              </time>
+            </p>
+            <span
+              className="  "
+            >
+              <svg
+                className=" undefined"
+                height={20}
+                onClick={[Function]}
+                width={20}
+              >
+                <use
+                  href="/icons.svg#trash-can"
+                />
+              </svg>
+              <span
+                className="  "
+              >
+                削除する
+              </span>
+            </span>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots PageHeader デフォルト 1`] = `
+<div
+  className={undefined}
+>
+  <ul
+    className={undefined}
+  >
+    <li
+      className={undefined}
+    >
+      <a
+        href="#"
+      >
+        <p
+          className="  "
+        >
+          トップ
+        </p>
+      </a>
+    </li>
+    <li
+      className={undefined}
+    >
+      <span>
+        通知番組
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Storyshots StickyHeaderLayout デフォルト 1`] = `
+<div
+  style={
+    Object {
+      "zIndex": 1,
+    }
+  }
+>
+  <div
+    className={undefined}
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "black",
+          "color": "white",
+          "height": "50px",
+        }
+      }
+    >
+      ヘッダー
+    </div>
+  </div>
+  <div
+    className={undefined}
+  >
+    <p
+      style={
+        Object {
+          "background": "linear-gradient(to bottom, #1e5799 0%,#7db9e8 100%)",
+          "height": "150vh",
+        }
+      }
+    >
+      本体
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextBox デフォルト 1`] = `
+<input
+  className=" "
+  type="text"
+/>
+`;
+
+exports[`Storyshots Time HH:mm 1`] = `
+<time
+  dateTime="2017-10-03T21:00"
+>
+  21:00
+</time>
+`;
+
+exports[`Storyshots Time デフォルト 1`] = `
+<time
+  dateTime="2017-10-03T21:00"
+>
+  10月03日(火)21:00
+</time>
+`;
+
+exports[`Storyshots Time 無効な時間表現 1`] = `
+<time
+  dateTime="Invalid date"
+>
+  有効な時間表現ではありません
+</time>
+`;
+
+exports[`Storyshots Txt テキスト - L 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt テキスト - M 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt テキスト - S 1`] = `
+<p
+  className="  "
+>
+  テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - L 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - M 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 情報テキスト - S 1`] = `
+<p
+  className="  "
+>
+  情報テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - L 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - M 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;
+
+exports[`Storyshots Txt 警告テキスト - S 1`] = `
+<p
+  className="  "
+>
+  警告テキストを表示
+</p>
+`;
+
+exports[`Storyshots Update PureComponent を使った例 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <p>
+    PureComponent を使った例
+  </p>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={undefined}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={true}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がない更新
+            </button>
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がある更新
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Update recompose pure を使った例 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <p>
+    recompose pure を使った例
+  </p>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={undefined}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={true}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がない更新
+            </button>
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がある更新
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Update shouldComponentUpdate() を使った例 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <p>
+    shouldComponentUpdate() を使った例
+  </p>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={undefined}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={true}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がない更新
+            </button>
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がある更新
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Update 毎回更新される例 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <p>
+    毎回更新される例
+  </p>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={undefined}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={true}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がない更新
+            </button>
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がある更新
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Update 絶対更新されない例 1`] = `
+<div
+  style={
+    Object {
+      "height": "100vh",
+      "position": "relative",
+    }
+  }
+>
+  <p>
+    絶対更新されない例
+  </p>
+  <div
+    style={
+      Object {
+        "color": "#828282",
+        "position": "absolute",
+        "right": 0,
+        "textAlign": "right",
+        "top": 0,
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ⬇️
+    </button>
+    <button
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f7f7f7",
+          "border": "1px solid #c1c1c1",
+          "borderRadius": "2px",
+          "color": "#828282",
+          "fontSize": "8px",
+          "height": "3em",
+          "width": "3em",
+        }
+      }
+    >
+      ❌
+    </button>
+    <div
+      style={
+        Object {
+          "width": "11em",
+        }
+      }
+    >
+      <ul
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "listStyleType": "none",
+            "margin": "0",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Actions
+          </button>
+        </li>
+        <li
+          style={
+            Object {
+              "flex": "1",
+            }
+          }
+        >
+          <button
+            onClick={[Function]}
+            style={
+              Object {
+                "border": "1px solid #c1c1c1",
+                "borderRadius": 0,
+                "color": "#828282",
+                "fontSize": "12px",
+                "padding": "0.5em 1em",
+                "width": "100%",
+              }
+            }
+          >
+            Timing
+          </button>
+        </li>
+      </ul>
+      <div
+        style={
+          Object {
+            "backgroundColor": "#f7f7f7",
+            "border": "1px solid #c1c1c1",
+            "borderRadius": "2px",
+            "color": "#828282",
+            "padding": ".5em",
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "paddingBottom": ".5em",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "backgroundColor": "#fff",
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "padding": ".5em",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "fontSize": "10px",
+                    "textAlign": "left",
+                  }
+                }
+              >
+                <div>
+                  <input
+                    data-type="printWasted"
+                    defaultChecked={undefined}
+                    id="perf_printWasted"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printWasted"
+                  >
+                    printWasted
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printOperations"
+                    defaultChecked={undefined}
+                    id="perf_printOperations"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printOperations"
+                  >
+                    printOperations
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printInclusive"
+                    defaultChecked={true}
+                    id="perf_printInclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printInclusive"
+                  >
+                    printInclusive
+                  </label>
+                </div>
+                <div>
+                  <input
+                    data-type="printExclusive"
+                    defaultChecked={undefined}
+                    id="perf_printExclusive"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <label
+                    htmlFor="perf_printExclusive"
+                  >
+                    printExclusive
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+              }
+            }
+          >
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がない更新
+            </button>
+            <button
+              onClick={[Function]}
+              style={
+                Object {
+                  "border": "1px solid #c1c1c1",
+                  "borderRadius": "2px",
+                  "color": "#828282",
+                  "fontSize": "12px",
+                  "padding": "0.5em 1em",
+                }
+              }
+            >
+              意味がある更新
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

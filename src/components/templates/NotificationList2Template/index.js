@@ -1,25 +1,25 @@
-import React from 'react'
-import styles from './styles.css'
+import React from 'react';
+import styles from './styles.css';
 import HolyGrailLayout, {
   HolyGrailTop,
   HolyGrailBottom,
   HolyGrailMain,
   HolyGrailLeft,
-  HolyGrailRight
-} from '../../atoms/HolyGrailLayout/index'
-import Card from '../../atoms/Card/index'
-import PageHeader from '../../organisms/PageHeader/index'
-import Header from '../../organisms/Header/index'
-import Footer from '../../organisms/Footer/index'
-import ChannelList from '../../organisms/ChannelList/index'
-import NotificationList from '../../organisms/NotificationList/index'
+  HolyGrailRight,
+} from '../../atoms/HolyGrailLayout/index.js';
+import Card from '../../atoms/Card/index.js';
+import PageHeader from '../../organisms/PageHeader/index.js';
+import Header from '../../organisms/Header/index.js';
+import Footer from '../../organisms/Footer/index.js';
+import ChannelList from '../../organisms/ChannelList/index.js';
+import NotificationList from '../../organisms/NotificationList/index.js';
 
 const NotificationList2Template = ({
   notifications,
   navigations,
   breadcrumb,
   channels,
-  onClickDeleteNotification,
+  onClickDeleteNotification
 }) => (
   <HolyGrailLayout className={ styles.root }>
     <HolyGrailTop>
@@ -45,6 +45,5 @@ const NotificationList2Template = ({
       </aside>
     </HolyGrailRight>
   </HolyGrailLayout>
-)
-
-export default NotificationList2Template
+);
+export default NotificationList2Template;

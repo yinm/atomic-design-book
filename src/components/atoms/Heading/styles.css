@@ -16,3 +16,7 @@
   border-bottom: var(--border);
   padding-bottom: var(--space);
 }
+
+.outlined {
+  color: var(--color-text-outlined);
+}

@@ -47,3 +47,5 @@ export default Heading;
 
 export const HeadingUnderlined = containPresenter(HeadingContainer, HeadingUnderlinedPresenter);
 export const HeadingOutlined = containPresenter(HeadingContainer, HeadingOutlinedPresenter);
+
+Object.assign(Heading, { displayName: 'Heading' });

@@ -6,8 +6,8 @@
 }
 
 .textbox {
+  flex: 1;
   margin-right: var(--space);
-  width: calc(var(--space) * 60);
 }
 
 .label {
