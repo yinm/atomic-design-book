@@ -1605,7 +1605,7 @@ exports[`Storyshots Notification デフォルト 1`] = `
         type="image/webp"
       />
       <img
-        alt={undefined}
+        alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
         height="72"
         src="/mock/images/img01.jpg"
         srcSet="/mock/images/img01.jpg"
@@ -1685,7 +1685,7 @@ exports[`Storyshots Notification 性能確認：タイトル変更 1`] = `
           type="image/webp"
         />
         <img
-          alt={undefined}
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
           height="72"
           src="/mock/images/img01.jpg"
           srcSet="/mock/images/img01.jpg"
@@ -1991,7 +1991,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
           type="image/webp"
         />
         <img
-          alt={undefined}
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
           height="72"
           src="/mock/images/128/72/img01.jpg"
           srcSet="/mock/images/128/72/img01.jpg 1x, /mock/images/192/108/img01.jpg 1.5x, /mock/images/256/144/img01.jpg 2x, /mock/images/384/216/img01.jpg 3x, /mock/images/512/288/img01.jpg 4x"
@@ -2060,7 +2060,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
           type="image/webp"
         />
         <img
-          alt={undefined}
+          alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
           height="72"
           src="/mock/images/128/72/img02.jpg"
           srcSet="/mock/images/128/72/img02.jpg 1x, /mock/images/192/108/img02.jpg 1.5x, /mock/images/256/144/img02.jpg 2x, /mock/images/384/216/img02.jpg 3x, /mock/images/512/288/img02.jpg 4x"
@@ -2129,7 +2129,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
           type="image/webp"
         />
         <img
-          alt={undefined}
+          alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
           height="72"
           src="/mock/images/128/72/img01.jpg"
           srcSet="/mock/images/128/72/img01.jpg 1x, /mock/images/192/108/img01.jpg 1.5x, /mock/images/256/144/img01.jpg 2x, /mock/images/384/216/img01.jpg 3x, /mock/images/512/288/img01.jpg 4x"
@@ -2198,7 +2198,7 @@ exports[`Storyshots NotificationList デフォルト 1`] = `
           type="image/webp"
         />
         <img
-          alt={undefined}
+          alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
           height="72"
           src="/mock/images/128/72/img02.jpg"
           srcSet="/mock/images/128/72/img02.jpg 1x, /mock/images/192/108/img02.jpg 1.5x, /mock/images/256/144/img02.jpg 2x, /mock/images/384/216/img02.jpg 3x, /mock/images/512/288/img02.jpg 4x"
@@ -2340,7 +2340,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -2409,7 +2409,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -2478,7 +2478,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -2547,7 +2547,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -2616,7 +2616,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -2685,7 +2685,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -2754,7 +2754,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -2823,7 +2823,7 @@ exports[`Storyshots NotificationList2Template デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -3144,7 +3144,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -3213,7 +3213,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -3282,7 +3282,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -3351,7 +3351,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -3420,7 +3420,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -3489,7 +3489,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
@@ -3558,7 +3558,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第1話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img01.jpg"
                 srcSet="/mock/images/img01.jpg"
@@ -3627,7 +3627,7 @@ exports[`Storyshots NotificationListTemplate デフォルト 1`] = `
                 type="image/webp"
               />
               <img
-                alt={undefined}
+                alt="番組「コンポーネント指向で UI を設計しよう！第2話」のサムネイル画像"
                 height="72"
                 src="/mock/images/img02.jpg"
                 srcSet="/mock/images/img02.jpg"
