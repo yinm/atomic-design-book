@@ -1,5 +1,5 @@
 import React from 'react';
-import Heading, { HeadingUnderlined } from './index.js';
+import Heading, { HeadingUnderlined, HeadingOutlined } from './index.js';
 import { withStyle } from '../../utils/decorators.js';
 
 const withDarkBg = withStyle({ backgroundColor: 'black' });

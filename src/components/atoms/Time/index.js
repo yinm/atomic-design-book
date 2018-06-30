@@ -29,6 +29,8 @@ export const TimeContainer = ({
 };
 
 const Time = containPresenter(TimeContainer, TimePresenter);
+Object.assign(Time, { displayName: 'Time' });
+
 export default Time;
 
 moment.locale();

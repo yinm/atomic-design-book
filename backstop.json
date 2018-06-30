@@ -32,7 +32,7 @@
     },
     {
       "label": "NotificationList2Template",
-      "url": "http://localhost:9001/iframe.html?selectedKind=NotificationList2Template&selectedStory=default",
+      "url": "http://localhost:9001/iframe.html?selectedKind=NotificationList2Template&selectedStory=デフォルト",
       "misMatchThreshold": 0.0000000001
     },
     {

@@ -1,9 +1,9 @@
 import React from 'react';
 import Card, { CardHeader } from './index.js';
-import { withStyle } from '../../utils/decorators.js';
+import { wrapWithStyle } from '../../utils/decorators.js';
 import { HeadingOutlined } from '../../atoms/Heading/index.js';
 
-const withBackground = withStyle({ padding: '50px', backgroundColor: 'gray', height: '100vh' });
+const withBackground = wrapWithStyle({ padding: '50px', backgroundColor: 'gray', height: '100vh' });
 
 export default stories => stories
   .add('デフォルト', () => withBackground(
