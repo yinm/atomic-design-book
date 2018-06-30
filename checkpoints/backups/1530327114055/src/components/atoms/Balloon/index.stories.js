@@ -23,9 +23,4 @@ export default stories => stories
     <p style={{ padding: '50px', width: '300px' }}>
       専門的なことを説明する文章の場合、文章中のある言葉が一般的に使われるものでない場合などに注釈を表示したいときがあります。たとえば<BalloonTip label="注釈を記述するUI">バルーンチップ</BalloonTip>のようなUIを使うことでそれが可能です。
     </p>
-  ))
-  .add('BalloonTip in a long sentence', () => (
-    <p style={{ padding: '50px', width: '300px' }}>
-      When it comes to terminology, you would like to add an note to that in order to describe the meaning. That is when <BalloonTip label="UI for additional information">BalloonTip</BalloonTip> comes to the resque. It only shows up when a user puts his or her mouse cursor on the terminology.
-    </p>
   ));
